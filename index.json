@@ -1,2 +1,13 @@
-{}
-
+{
+    "aliases": [],
+    "recipes": {},
+    "versions": [],
+    "branch": "master",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/piotrkardasz/private-recipes",
+        "origin_template": "{package}:{version}@github.com/piotrkardasz/private-recipes:master",
+        "recipe_template": "https://raw.githubusercontent.com/piotrkardasz/private-recipes/flex/main/{package_dotted}.{version}.json",
+        "archived_recipes_template": "https://raw.githubusercontent.com/piotrkardasz/private-recipes/flex/main/archived/{package_dotted}/{ref}.json"
+    }
+}
