@@ -14,4 +14,4 @@ jobs:
         uses: symfony/recipes/.github/workflows/callable-flex-update.yml@main
         with:
             branch: master
-            versions_json: .github/versions.json
+            contrib: true
