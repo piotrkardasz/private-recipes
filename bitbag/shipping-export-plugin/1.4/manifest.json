@@ -6,6 +6,7 @@
         "config/": "%CONFIG_DIR%/"
     },
     "gitignore": [
-        "/shipping_labels/"
+        "/shipping_labels/",
+        "/shipping_labels2/"
     ]
 }
