@@ -1,6 +1,9 @@
 {
     "aliases": [],
     "recipes": {
+        "bitbag/shipping-export-plugin": [
+            "1.4"
+        ],
         "nzo/url-encryptor-bundle": [
             "6.0"
         ]
